@@ -1,0 +1,90 @@
+Associated text for each slide:
+**Slide 1:** Good [Afternoon/Evening], everyone. My name is Nic Zaparniuk, a third year undergraduate student here at the University of British Columbia.
+Today, I’m excited to present findings from a high-resolution spectroscopic study on extremely metal-poor (EMP) stars in the Large Magellanic Cloud, or LMC.
+This study offers new insights into the early stages of star formation and the chemical evolution of dwarf galaxies.
+
+**Slide 2:**In this presentation, I’ll begin by covering key concepts like stellar nucleosynthesis and the r-process.
+I’ll then introduce the central study, detailing the methods, sample selection, and data collection.
+Next, I'll discuss the key findings on extremely metal-poor stars and their role in the chemical evolution of dwarf galaxies, comparing them to the Milky Way.
+Finally, I’ll highlight the broader implications for galaxy evolution and the importance of this research, concluding with potential future research directions.
+
+**Slide 3:**In stars, gravity compresses atoms in the core so tightly that fusion occurs, where lighter elements like hydrogen fuse into helium, releasing energy.
+As helium accumulates, it fuses into heavier elements like carbon, continuing up to iron or nickel, known as the "Iron Peak."
+Beyond this point, fusion requires more energy than it releases, so the star can no longer support itself against gravity, leading to a collapse and supernova.
+Since elements heavier than iron can’t form through fusion in stars, how did they get here?
+
+**Slide 4:**This brings us to the rapid neutron capture process, or r-process.
+While there are other processes for creating heavier elements, I'll just focus on this one.
+The r-process occurs in environments with a high neutron-to-proton ratio, where neutrons are rapidly captured by nuclei.
+The "rapid" capture is important as it means the nuclei don't have time to decay before another neutron is captured.
+This continues until the nuclei a neutron limit. Once the neutron flux decreases enough, the final step is for the neutrons to beta-decay producing protons forming a heavy element.
+Where exactly this process takes place is still a heated discussion, with possibilities including supernovae, neutron star mergers, or even neutron star black hole mergers.
+
+**Slide 5:** In astronomy, "metals" is a term used to describe all elements except hydrogen and helium. Stellar metallicity is typically defined in terms of iron abundance because iron serves as a marker for stellar nucleosynthesis.
+It’s measured using the ratio [Fe/H], comparing a star’s iron abundance to our Sun’s. So, a positive ratio indicates higher metallicity, while a negative ratio indicates lower metallicity.
+This variation in metallicity leads to the classification of stars into three populations:
+Extremely Metal-Poor (EMP) stars fit into the second category as ancient, second-generation stars formed from gas that was only slightly enriched by the first supernovae.
+These stars have very low metallicity, with [Fe/H] values of -3 or lower. EMP stars are crucial because they serve as time capsules, preserving the chemical signatures of early star formation, and studying them helps us understand the composition of the first stars and the environments in which galaxies like the LMC formed!
+
+**Slide 6:**The Large Magellanic Cloud (LMC), a satellite galaxy of the Milky Way located about 163,000 light-years away (roughly 50 Kpc), is crucial for astrophysical research.
+Its proximity allows detailed study of star formation and stellar evolution in low-metallicity environments, similar to early-universe conditions.
+As a nearby galaxy, it offers insights into galaxy evolution through interactions with the Milky Way and the Small Magellanic Cloud.
+Additionally, the LMC’s Cepheid variable stars are used to calibrate cosmic distance measurements, making it a key target for understanding galaxy formation, cosmology, and the broader structure of the universe.
+
+**Slide 7:**This brings us to the main study of this presentation. By Dougal Mackey, Oh Wei Shen, as well as others at the Australian National University, this study is a high-resolution spectroscopic analysis of seven extremely metal-poor stars in the LMC.
+The sample stars used in this study have been selected from one of their own previous research endeavours based on photometric data from the SkyMapper survey - specifically designed to identify metal-poor stars.
+
+**Slide 8:**The initial candidates were identified using SkyMapper photometry, which uses several filters to identify stars with low metallicity.
+The stars were selected based on their location on the color-magnitude diagram and by utilizing the Gaia astrometric satellite applying a parallax and proper motion cut to ensure that only likely LMC stars were considered. 
+From here, these candidates were observed using low-resolution spectroscopy with the ANU 2.3m telescope.
+However, before proceeding radial velocity measurements, based on the velocity distribution expected for LMC stars, were used to verify that the selected stars were in fact members of the Large Magellanic Cloud.
+So , we’re good. These are LMC stars
+
+**Slide 9:**After the selection process,the final sample of seven stars, were observed using the Ultraviolet and the Visual Echelle Spectrograph (UVES) mounted on the Very Large Telescope (VLT) at the European Southern Observatory - with observations spanning multiple nights across August 2021 to January 2022.
+This instrument in particular, is able to provide high dispersion spectra, allowing for precise measurements of elemental abundances.
+Wavelength Coverage and Resolutio: (as shown on the slide). 
+The UVES data was then reduced using the UVES pipeline and then merged into a single continuous spectrum for each star.
+
+**Slide 10:**One of the key outcomes of this study was the detailed measurements of elemental abundances in the seven EMP stars.
+This spectroscopic analysis was done using a grid of  α-enhanced ([α/Fe] = +0.4) ATLAS9 model atmospheres. And, the abundances of 24 elements were determined using MOOG stellar line analysis code and interpreted using the stellar parameters that had been previously identified:
+Now, for most elements such as Na, Mg, Ca, Ti, Fe, etc… equivalent widths were measured and used to calculate abundances.
+However, for other elements such as C, Ni, O, and r-process elements like europium, synthetic spectra (shown on the screen) were generated and compared to the observed spectra to fit abundance.
+As the derived metallicities were cross-checked with the model atmosphere assumptions, if the difference between the derived and assumed metallicities exceed 0.2 dex (decimal exponent), the model atmosphere was updated, where the process was repeated until the values converged.
+
+**Slide 11:**The main light elements measured in this study include C, N, O, Na, and Al.
+It was found that all seven stars had measurable carbon abundances; however, none were actually classified as carbon-enhanced metal-poor stars (CEMP stars have [C/Fe] > +1 while still having [Fe/H] < -1) with carbon abundances generally being lower than those seen in similar Milky Way stars. 
+As for Nitrogen, only one star was found to be nitrogen- enhanced ([N/Fe]=1.7)  (second from the bottom 497519424), classifying it as a nitrogen-enhanced metal-poor star, and this is the first NEMP star ever identified in the LMC!
+Unfortunately, Oxygen abundances were only measurable for three stars, due to contamination from other spectra (telluric lines).
+The average [O/Fe] ratio of these stars was higher than that of the Milky Way halo stars with similar metallicities.
+Sodium abundances matched Milky Way stars, except for NEMP stars, which showed significant enhancement.
+Aluminum was slightly higher, with no significant scatter. Iron-peak elements like Sc, Cr, and Mn were consistent with Milky Way stars, while zinc was only slightly higher in one star.
+Barium showed no significant enhancement in any of the seven stars.
+
+**Slide 12:**Perhaps the most interesting result of this study relates to the r-process elements, particularly europium (Eu). The r-process, or rapid neutron capture process, is responsible for producing approximately half of the elements heavier than iron, such as europium and gold.
+This study found that two stars were classified as r-process enhanced: 
+Star (497682788) is classified as an r-II star, with [Eu/Fe] > 1.0.
+Star (500382880) is classified as an r-1 star, with moderate enrichment([Eu/Fe] between 0.3 and 1.0)
+Prior to this study, the work of Reggiani et al. at John Hopkins University suggested that the rate of r-process enhancement could have been much higher than in the Milky Way.
+You can see this as the blue crosses all placed highly (on the bottom graphic), but the red points of this study look more like the underlying distribution of the Milky Way's black dots, suggesting that r-process enrichment events may have occurred at more similar rates in both galaxies than previously understood. 
+
+**Slide 13:**The presence of r-process enhanced stars suggests that r-process nucleosynthesis, likely from neutron star mergers, occurred after a significant delay following star formation.
+This delay is estimated to be around 100 million years, reflecting the longer timescales required for neutron star mergers compared to core-collapse supernovae.
+I’m not sure if anyone has thought of this question by now but you have to ask, Why Neutron star mergers?
+There are a number of possible r-process sites , including magneto-rotational supernovae, or even hypernovae, but the reason why Neutron star mergers are considered to be the likely site for the r-process enhancement in the LMC is because they create extremely high neutron densities and can produce large amounts of r-process elements, whereas core-collapse supernovae may not all create the necessary conditions for this production.
+Furthermore, binary neutron star mergers are known to occur on extended time scales ranging from ~ 30 Myrs to several Gyrs before occurring which is on the same time scale as the r-process delay.
+Observations of r-process elements like Eu in the LMC’s EMP stars suggest that the r-process contribution was non-uniform [as would be expected of core-collapse supernovae]. Instead, r-process elements appear in specific stars, suggesting enrichment from rare and delayed events like mergers
+
+**Slide 14:**The existence of EMP stars in the LMC confirms that this galaxy formed its first stars early in its history, just like the Milky Way.
+These stars with [Fe/H] as low as -3.13, are among the first stars to form after the initial supernovae enriched the interstellar medium with heavier elements.
+The low metallicity present in these stars strongly suggests that early star formation in the LMC took place in a low metallicity environment. - with only slight enrichment from the first generation of stars. 
+Now, in a more recent study by the University of Chicago, which discovered an independent sample of EMP stars in the LMC. Their lowest metallicity member was quite low, with [fe/H] < - 4. Overall, their results were fairly consistent with what has been shown in this presentation, in particular they actually didn’t see ANY r-process enhanced stars.
+They offer some interpretation for that observation suggesting that it possibly requires a delay in whatever turns ON the r-process -- like neutron star mergers -- which would allow stellar metallicities to be enriched to > -2.5 before r-process enhancement is seen.
+Now, the work done by ANU suggests that the limit might be slightly lower, but in general the story seems to be reasonably consistent.
+
+**Slide 15:**With the future of astronomy looking so bright there are a lot of different instruments that could help with follow up research and future studies.
+Next-generation telescopes like JWST and the Extremely Large Telescope will be able to provide researchers with new opportunities to improve our understanding of the LMC and other local galaxies.
+So with all of this said, how can we use this research to try and answer future questions?
+One the key areas for continued research is expanding the sample size of EMP stars in the LMC. This study analyzed seven stars, although the results of the analysis were very insightful, a larger and more diverse sample size would be able to provide a better statistical understanding of the LMC’s early star formation history or chemical evolution.
+This will hopefully be able to fill in some of the gaps in metallicity distribution and elemental abundance patterns.
+
+**Slide 16:** I would like to quickly thank Dr. Dougal Mackey for giving me the opportunity to present his, and his colleagues research. Thank you for your listening,  and I’m happy to take any questions! :)
